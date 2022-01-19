@@ -1,3 +1,7 @@
+# Instructions
+
+Fill the form correctly and press the button "Enviar", them open the google dev tolls console to see the results
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
